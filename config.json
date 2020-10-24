@@ -1,0 +1,15 @@
+{
+    "token":"MzA3OTE0NDQ4OTYwNjE4NDk3.WQS9rQ.eS7krMflzuj3AY45j8zgq2y3ylo",
+    "formats":
+    [
+        {
+            "prefix":"!"
+        }
+    ],
+    "servers": [
+        {
+            "id":"406640059815559168",
+            "format":0
+        }
+    ]
+}

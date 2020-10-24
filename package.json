@@ -1,0 +1,23 @@
+{
+  "name": "amongusbot",
+  "version": "0.0.1",
+  "description": "among us bot",
+  "main": "main.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.4.0",
+    "scrape-yt": "^1.4.3",
+    "stream-buffers": "^3.0.2",
+    "youtube-scrape": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "n/a"
+  },
+  "keywords": [
+    "among",
+    "us"
+  ],
+  "author": "Nicholas Kading",
+  "license": "ISC"
+}
